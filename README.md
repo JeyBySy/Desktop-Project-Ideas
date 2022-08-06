@@ -1,3 +1,5 @@
 # Desktop-Project-Ideas
 
-i Data Visualization
+1. Data Visualization
+1. Data Visualization
+1. Data Visualization
