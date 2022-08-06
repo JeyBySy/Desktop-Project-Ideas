@@ -1,4 +1,4 @@
 # Desktop-Project-Ideas
-| #Project |
+| Project |
 |---------|
 | Data Visualization |
