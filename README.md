@@ -1,5 +1,3 @@
 # Desktop-Project-Ideas
-
-1. Data Visualization
-1. Data Visualization
-1. Data Visualization
+| Project |
+|Data Visualization|
